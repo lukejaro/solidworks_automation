@@ -1,0 +1,12 @@
+C:\Users\Luke.Jaroszewski\source\repos\SolidworksRunner\SolidworksRunner\bin\Debug\SolidworksRunner.exe.config
+C:\Users\Luke.Jaroszewski\source\repos\SolidworksRunner\SolidworksRunner\bin\Debug\SolidworksRunner.exe
+C:\Users\Luke.Jaroszewski\source\repos\SolidworksRunner\SolidworksRunner\bin\Debug\SolidworksRunner.pdb
+C:\Users\Luke.Jaroszewski\source\repos\SolidworksRunner\SolidworksRunner\bin\Debug\SolidworksRunner.xml
+C:\Users\Luke.Jaroszewski\source\repos\SolidworksRunner\SolidworksRunner\obj\Debug\SolidworksRunner.vbproj.AssemblyReference.cache
+C:\Users\Luke.Jaroszewski\source\repos\SolidworksRunner\SolidworksRunner\obj\Debug\SolidworksRunner.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Luke.Jaroszewski\source\repos\SolidworksRunner\SolidworksRunner\obj\Debug\SolidworksRunner.Resources.resources
+C:\Users\Luke.Jaroszewski\source\repos\SolidworksRunner\SolidworksRunner\obj\Debug\SolidworksRunner.vbproj.GenerateResource.cache
+C:\Users\Luke.Jaroszewski\source\repos\SolidworksRunner\SolidworksRunner\obj\Debug\SolidworksRunner.vbproj.CoreCompileInputs.cache
+C:\Users\Luke.Jaroszewski\source\repos\SolidworksRunner\SolidworksRunner\obj\Debug\SolidworksRunner.exe
+C:\Users\Luke.Jaroszewski\source\repos\SolidworksRunner\SolidworksRunner\obj\Debug\SolidworksRunner.xml
+C:\Users\Luke.Jaroszewski\source\repos\SolidworksRunner\SolidworksRunner\obj\Debug\SolidworksRunner.pdb
